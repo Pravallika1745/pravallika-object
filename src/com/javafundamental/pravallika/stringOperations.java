@@ -20,7 +20,7 @@ public class stringOperations {
 		System.out.println(t + " football");
 		System.out.println(r.indexOf("Love"));
 		System.out.println(s.indexOf("Jump"));
-		System.out.println(t.indexOf("cat"));
+		System.out.println("Index of Cat is :"+t.indexOf("cat"));
 		System.out.println(u.indexOf("dog"));
 		System.out.println(u.substring(5));
 		System.out.println(u.substring(1, 3));
